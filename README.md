@@ -1,6 +1,6 @@
 # Snake
-Escape key - Terminate \n
-Left arrow key - Move Left \n
-Right arrow key - Move Right \n
-Up arrow key - Move Up \n
+Escape key - Terminate 
+Left arrow key - Move Left 
+Right arrow key - Move Right 
+Up arrow key - Move Up 
 Down arrow key - Move Down
